@@ -1,8 +1,5 @@
 ## Olá! Eu sou o Luiz Henrique 👋 
 
-**<h2> Informações Públicas </h2>**
-
-Acesse meu [Portfólio]()
  <div>
   <ahref="https://github.com/LHxis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LHxis&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true)](https://github.com/LHxis/github-readme-stats#gh-dark-mode-only"/>
@@ -23,11 +20,16 @@ Acesse meu [Portfólio]()
 </div>
 
   ##
-  
 
 <div> 
  <a href="https://discord.gg/WeJPHsA7ta" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/gVHBw464be" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+ **<h2> Informações Públicas </h2>**
+
+Acesse meu [Portfólio]()
+
+Sou um apaixonado por códigos, inovações tecnológicas e muito café..
  
 ### Ouvindo Spotify 🎧
  [![Spotify](https://novatorem-delta-nine.vercel.app/api/spotify)](https://open.spotify.com/user/Luizcreator)
