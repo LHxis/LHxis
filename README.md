@@ -24,7 +24,8 @@
 <div> 
  <a href="https://discord.gg/WeJPHsA7ta" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/gVHBw464be" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
+ 
+### Ouvindo Spotify 🎧
  [![Spotify](https://novatorem-delta-nine.vercel.app/api/spotify)](https://open.spotify.com/user/Luizcreator)
  
 </div>
