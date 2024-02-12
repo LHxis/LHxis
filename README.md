@@ -17,3 +17,11 @@
           
   <img align="right" alt="Luiz-png" src="https://cdn.discordapp.com/attachments/1020363682162688131/1206503116053282826/fbi.png?ex=65dc3e96&is=65c9c996&hm=363183d30287486b304a7a6b3ff17e983fa2f6260e8e05b4c7340dd0bac40414&" />
 </div>
+
+  ##
+  
+<div> 
+ <a href="https://discord.gg/WeJPHsA7ta" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/gVHBw464be" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+</div>
