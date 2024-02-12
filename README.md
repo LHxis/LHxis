@@ -15,5 +15,5 @@
   <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luiz-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
           
-  <img align="right" alt="Luiz-gif" src="https://cdn.discordapp.com/attachments/1020363682162688131/1206502056270110790/fire.gif?ex=65dc3d99&is=65c9c899&hm=fdd8cb674fdb2a1b2c41f61501b79646399f7249f2249b340edc8998c6f9398f&" />
+  <img align="right" alt="Luiz-gif" src="https://cdn.discordapp.com/attachments/1020363682162688131/1206502056270110790/fire.gif?ex=65dc3d99&is=65c9c899&hm=fdd8cb674fdb2a1b2c41f61501b79646399f7249f2249b340edc8998c6f9398f&](https://media.discordapp.net/attachments/1020363682162688131/1206502055754207232/fbi.png?" />
 </div>
