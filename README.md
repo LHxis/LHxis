@@ -23,7 +23,7 @@
  
  **<h2> Informações Públicas </h2>**
 
-Acesse meu [Portfólio!](https://lhxis.github.io/Portfolio/)
+//Acesse meu [Portfólio!](https://lhxis.github.io/Portfolio/)
 
 Sou um apaixonado por códigos, inovações tecnológicas e muito café..
  
